@@ -1,0 +1,15 @@
+# Cartelle di lavoro: contengono documenti veri, non vanno mai caricate
+input_files/
+output_files/
+Archivio/
+
+# Build di PyInstaller
+build/
+dist/
+*.spec
+*.exe
+
+# Python
+__pycache__/
+*.pyc
+.venv/
